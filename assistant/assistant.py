@@ -70,7 +70,7 @@ def sendmail(to, content):
 
 #must enable acces to low secure devices
 
-    server.login('raghav.gambhir59@gmail.com', 'raghav1212')
+    server.login('raghav.gambhir59@gmail.com', 'xxxxx')
     server.sendmail('raghav.gambhir59@gmail.com', to, content)
     server.close()
 
